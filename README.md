@@ -2,4 +2,4 @@
 
 Hi All!
 
-My name is Nelson koomson and my major is studying Computer Science. 
+My name is Nelson Koomson and my major is studying Computer Science. 
